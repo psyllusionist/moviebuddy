@@ -1,0 +1,23 @@
+.cardDetails {
+  width: 90vw;
+  max-width: 800px;
+  height: 80vh;
+  min-height: 320px;
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: fixed;
+  overflow-y: scroll;
+  background-color: #1c1c1c
+}
+
+.cardDetailsBox {
+  max-width: 500px;
+  height: 80%;
+  background-color: #7c7c7c;
+}
+
+.noneSelection {
+  user-select: none;
+}
